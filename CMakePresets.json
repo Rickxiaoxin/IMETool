@@ -1,0 +1,11 @@
+{
+    "version": 6,
+    "configurePresets": [
+        {
+            "name": "vs",
+            "displayName": "Visual Studio 17 2022",
+            "generator": "Visual Studio 17 2022",
+            "binaryDir": "${sourceDir}/build"
+        }
+    ]
+}
